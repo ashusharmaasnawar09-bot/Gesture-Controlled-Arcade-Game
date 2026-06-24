@@ -1,11 +1,5 @@
 # Week 1: Environment Setup, Python Basics & OpenCV Introduction
 
-## Objective
-
-The goal of Week 1 was to set up the development environment and become familiar with Python fundamentals and OpenCV basics required for future gesture recognition tasks.
-
----
-
 ## Environment Setup
 
 ### Software Installed
@@ -88,16 +82,4 @@ OpenCV is an open-source computer vision library used for image processing and v
 * cap.release()
 
 ---
-
-## Learning Outcome
-
-By the end of Week 1, I was able to:
-
-* Configure a Python computer vision environment.
-* Read and manipulate images using OpenCV.
-* Draw geometric shapes and text on images.
-* Access webcam streams.
-* Capture and display real-time video frames.
-
-These concepts form the foundation required for MediaPipe-based hand tracking and gesture recognition in the upcoming weeks.
 
