@@ -1,11 +1,5 @@
 # Week 2: Introduction to MediaPipe
 
-## Objective
-
-The goal of Week 2 was to transition from traditional image processing with OpenCV to machine learning-based hand tracking using Google's MediaPipe framework.
-
----
-
 ## What is MediaPipe?
 
 MediaPipe is Google's cross-platform framework for building real-time perception pipelines.
@@ -83,9 +77,6 @@ Reading x, y and z values of every detected landmark.
 
 ---
 
-## Learning Outcome
-
-By the end of Week 2, I was able to:
 
 * Configure MediaPipe in Python.
 * Detect hands in real time.
